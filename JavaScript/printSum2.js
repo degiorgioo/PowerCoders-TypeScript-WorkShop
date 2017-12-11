@@ -2,8 +2,6 @@
  * printSum2 method
  * In this method was tried to check the type of the given values.
  * If values for summand1 and summand2 are both numbers, the result can be calculated.
- * One or both of the given values could be another type than a number. When this occurs
- * an Error message ("Invalid Type") is displayed. 
  * 
  * @param {number} summand1 - Number one for the calculation
  * @param {number} summand2 - Number two for the calculation
