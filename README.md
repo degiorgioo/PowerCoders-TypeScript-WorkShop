@@ -9,6 +9,6 @@ This Repo was created by Matteo Patisso & Davide De Giorgio.
 ## Presentation
 This Presenation includes following topics:
 - Type System --> All about Types, Type checks, etc.
-- TypeScript --> Some TypeScript Theorie, Introduction in Syntax, Examples, etc.
+- TypeScript --> Some TypeScript Theory, Introduction in Syntax, Examples, etc.
 
 Link: https://docs.google.com/presentation/d/1ag0MXp_FiyIgFGBYxitqlOYVk6USGo4_3QE_fOUB7R0/edit?usp=sharing
