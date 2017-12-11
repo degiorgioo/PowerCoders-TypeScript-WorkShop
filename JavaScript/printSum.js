@@ -10,8 +10,7 @@ function printSum(summand1,summand2) {
 }
 
 /**
- * the main problem of this method is, that it can be called with all every Object.
- * The method tries to run the operator with every passed parameter. 
+ * The main problem of this method is, that it can be called with every type of Object.
  * Below you see an example for this situation.
  */
 
