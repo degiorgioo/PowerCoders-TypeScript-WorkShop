@@ -12,3 +12,14 @@ This Presenation includes following topics:
 - TypeScript --> Some TypeScript Theory, Introduction in Syntax, Examples, etc.
 
 Link: https://docs.google.com/presentation/d/1ag0MXp_FiyIgFGBYxitqlOYVk6USGo4_3QE_fOUB7R0/edit?usp=sharing
+
+## About PowerCoders (Official About us)
+Powercoders is a coding program for refugees. It consists of a coding bootcamp of 13 weeks and an internship that lasts 6 to 12 months.
+
+## Their Vision
+We believe that every vacant IT job can be filled with a displaced persons.
+
+## Their Mission
+We are offering displaced people a shortcut into the IT sector.
+
+Link: http://powercoders.org/
