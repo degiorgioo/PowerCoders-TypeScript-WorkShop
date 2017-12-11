@@ -1,5 +1,7 @@
 /**
  * printSum method
+ * If values for summand1 and summand2 are both numbers, the result can be calculated.
+ * 
  * @param {number} summand1 - Number one for the calculation
  * @param {number} summand2 - Number two for the calculation
  * @returns {number} - Retruns the sum of the two numbers
