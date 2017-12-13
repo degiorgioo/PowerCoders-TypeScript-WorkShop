@@ -15,7 +15,7 @@ function printSumTypeScript(summand1: number, summand2: number) : void {
  * 1) Valid call.
  * 2) Invalid call. Error: [ts] Argument of type '"1"' is not assignable to parameter of type 'number'.
  * 3) Invalid call. Error: [ts] Argument of type '"2"' is not assignable to parameter of type 'number'.
- * 3) Invalid call. Error: [ts] Argument of type '"1"' is not assignable to parameter of type 'number'.
+ * 4) Invalid call. Error: [ts] Argument of type '"1"' is not assignable to parameter of type 'number'.
  *                  Error: [ts] Argument of type '"2"' is not assignable to parameter of type 'number'.
  */
 printSumTypeScript(1 ,2);
